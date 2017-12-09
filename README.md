@@ -4,7 +4,7 @@ Welcome to my social media app project. In summary I created this project with t
 
 ### Why
 
-I chose to create a simple social media app so that I could have a single consisten app to create accross multiple frameworks. I also felt that a social media app offers me the chance to demonstrate a number of different features.
+I chose to create a simple social media app so that I could have a single consistent app to create accross multiple frameworks. I also felt that a social media app offers me the chance to demonstrate a number of different features.
 
 ### Features
 
