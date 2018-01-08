@@ -34,7 +34,7 @@ The features that I want to demonstrate with these apps are the following:
     
 ### Issues
     
-If you do stumble accross these apps and notice any defects or best practice problems, please let me know by opening a github issue. I would really appreciate it!
+If you do stumble accross these apps and notice any defects or issues following best practices, please let me know by opening a github issue. I would really appreciate it!
     
 ### Licence
 
