@@ -44,4 +44,4 @@ If you do stumble accross these apps and notice any defects or issues following 
     
 ### Licence
 
-You can use this for anything and everything you want to use it for.
+[MIT](https://opensource.org/licenses/MIT)
